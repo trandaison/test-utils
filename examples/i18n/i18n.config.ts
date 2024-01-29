@@ -3,6 +3,7 @@ export default defineI18nConfig(() => ({
   locale: 'en',
   messages: {
     en: {
+      brand: 'Vite I18n',
       hello: 'from the en locale'
     },
   }
